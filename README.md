@@ -5,7 +5,7 @@ This repository contains code for training, testing and evaluating Safe-LLM.
 The content of the folders in this repo is as follows :
 
 **Datasets**: The Content-Moderation-Dataset training and Counterfactual testset are provided.
-We also provide guideline for LLM based annotation. - This contains subset(50,500 sample) datasets for testing iterations of desired prompts, and larger datasets(7000, 16000 sample) for training the models in line with defined annotation format, and prompt format defined in the default parameters file(params.py).
+We also provide guideline for **LLM based annotation**. - This contains datasets for testing iterations of desired prompts, and larger dataset for training the models in line with defined annotation format, and prompt format defined in the default parameters file(params.py). 
 
 - **generate_data** - This contains code for machine-augmented data annotation using OpenAI API's and our defined prompts. Given the LLM's ability to annotate both accurately and quickly, we provide these guidelines for annotating our schema through LLMs. The script uses either default parameters in the params.py file , or parameters passed in the terminal as arguments. 
 
