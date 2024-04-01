@@ -1,4 +1,4 @@
-This repository contains code for training, testing and evaluating Responsible-LLM.
+This repository contains code for training, testing and evaluating Safe-Responsible-LLM.
 
 
 ## Overview 
