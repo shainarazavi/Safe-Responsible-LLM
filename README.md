@@ -15,3 +15,10 @@ We also provide guideline for **LLM based annotation**. - This contains datasets
 
 - **utils** - contains utility code i.e configs.py - configuration dataclasses for moving parameters across methods; helpers.py - helper functions for loading files, merging models e.t.c, params.py - default parameters for training our model that can be overwritten by defining arguments for respective scripts. 
 
+**Citation**
+if you use this work, cite us
+```
+https://arxiv.org/abs/2404.01399
+```
+
+Paper link https://arxiv.org/abs/2404.01399
