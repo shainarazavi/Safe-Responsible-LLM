@@ -25,7 +25,7 @@ The content of the folders in this repository is as follows:
   - `params.py`: Default parameters for training our model, which can be overwritten by defining arguments for the respective scripts.
 
 ### Dataset
-You can access the dataset here: [Hugging Face - NewsMediaBias Instruction Safe LLM](https://huggingface.co/datasets/newsmediabias/instruction-safe-llm)
+You can access the dataset here: will be shared upon release.
 
 ### Citation
 If you use this work, please cite us:
