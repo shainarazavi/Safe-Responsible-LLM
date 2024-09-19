@@ -1,8 +1,7 @@
 
 # Safe-Responsible-LLM
 
-This repository contains code for training, testing, and evaluating the Safe-Responsible-LLM.
-
+This repository contains code for training, testing, and evaluating the Safe-Responsible-LLM. The code is based on instruction fine-tuned models like Llama, Mistral; please update it to the appropriate versions of Llama and Mistral.
 ## Overview
 
 The content of the folders in this repository is as follows:
